@@ -1,1 +1,2 @@
 # ML-capstone
+Software program that utilizes the popular machine learning algorithm Random Forest to estimate a penguins weight based on visual measurements.  Multiple libraries used to clean the csv file, provide data visualizations and the random forest decision tree algorithm.  The concept behind this product is that it can be used on expeditions to gather data quickly and accurately in the field.  Please refer to the PDF file for an extensive analysis of the product on how it works and the business purpose behind it.  
